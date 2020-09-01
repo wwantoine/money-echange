@@ -1,0 +1,10 @@
+section {
+    display: flex;
+    justify-content: space-around;
+}
+.main-section {
+    display: flex;
+    justify-content: space-around;
+    height: 300px;
+    background-color: blue;
+}
